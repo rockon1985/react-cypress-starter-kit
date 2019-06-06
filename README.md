@@ -1,2 +1,2 @@
-# react-cypress-todo-starter
-A Starter Project to explore Cypress for Unit and End-to-end testing in React application
+# react-cypress-starter-kit
+End to end Testing React App with Cypress
